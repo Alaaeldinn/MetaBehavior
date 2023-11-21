@@ -69,6 +69,8 @@ Document your model performance and results in the results directory. Include vi
 Contributing
 
 We welcome contributions! If you find any issues or have ideas for improvements, please open an issue or submit a pull request.
-License
 
-This project is licensed under the MIT License. Feel free to use and modify the code according to the terms specified in the license.
+
+## **License**
+
+This project is licensed under the [MIT License]. Feel free to use and modify the code according to the terms specified in the license.
